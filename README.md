@@ -1,0 +1,2 @@
+# MobBot
+a discord selfbot
